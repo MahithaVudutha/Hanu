@@ -1,0 +1,27 @@
+name: DivineGuide
+options:
+  deploymentTarget:
+    iOS: '16.0'
+packages:
+  Firebase:
+    url: https://github.com/firebase/firebase-ios-sdk
+    from: 10.20.0
+targets:
+  DivineGuide:
+    type: application
+    platform: iOS
+    sources:
+      - path: DivineGuide
+    info:
+      path: DivineGuide/Info.plist
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.yourorg.DivineGuide
+        PRODUCT_NAME: DivineGuide
+        SWIFT_VERSION: 5.9
+    dependencies:
+      - package: Firebase
+        products:
+          - FirebaseAuth
+          - FirebaseFirestore
+          - FirebaseFirestoreSwift
