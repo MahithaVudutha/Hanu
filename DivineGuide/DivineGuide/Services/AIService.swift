@@ -77,4 +77,3 @@ final class AIService {
         return await translate(base, to: userLanguage)
     }
 }
-

@@ -128,4 +128,3 @@ private struct TextBubble: View {
             .frame(maxWidth: UIScreen.main.bounds.width * 0.75, alignment: isUser ? .trailing : .leading)
     }
 }
-

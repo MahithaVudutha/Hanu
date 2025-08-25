@@ -41,4 +41,3 @@ struct Scripture: Codable, Identifiable {
         case tags
     }
 }
-

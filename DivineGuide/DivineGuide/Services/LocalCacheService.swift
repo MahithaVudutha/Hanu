@@ -21,4 +21,3 @@ final class LocalCacheService {
         return (try? JSONDecoder().decode([Scripture].self, from: data)) ?? []
     }
 }
-

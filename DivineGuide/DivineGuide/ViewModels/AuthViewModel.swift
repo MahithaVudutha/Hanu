@@ -54,4 +54,3 @@ final class AuthViewModel: ObservableObject {
         do { try FirebaseService.shared.signOut() } catch { errorMessage = error.localizedDescription }
     }
 }
-

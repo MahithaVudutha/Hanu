@@ -96,7 +96,7 @@ final class FirebaseService {
 
     func fetchFavorites(userId: String) async throws -> [Scripture] {
         let user = try await db.collection("users").document(userId).getDocument()
-        let favs = (user.data()? ["favoriteIds"] as? [String]) ?? []
+        let favs = (user.data()?["favoriteIds"] as? [String]) ?? []
         var results: [Scripture] = []
         for id in favs {
             if let s = try await fetchScripture(by: id) {
@@ -106,4 +106,3 @@ final class FirebaseService {
         return results
     }
 }
-

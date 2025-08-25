@@ -64,4 +64,3 @@ final class ChatViewModel: ObservableObject {
         messages.append(assistantMsg)
     }
 }
-

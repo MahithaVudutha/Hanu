@@ -20,4 +20,3 @@ struct FavoritesView: View {
         favorites = (try? await FirebaseService.shared.fetchFavorites(userId: userId)) ?? []
     }
 }
-

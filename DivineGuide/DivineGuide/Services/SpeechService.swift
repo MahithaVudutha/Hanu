@@ -68,4 +68,3 @@ final class SpeechService: NSObject, ObservableObject {
         synthesizer.speak(utterance)
     }
 }
-

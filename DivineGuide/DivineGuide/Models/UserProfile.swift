@@ -15,4 +15,3 @@ struct UserProfile: Codable, Identifiable {
         self.favoriteIds = favoriteIds
     }
 }
-
