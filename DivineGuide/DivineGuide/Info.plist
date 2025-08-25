@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleDisplayName</key>
+  <string>Divine Guide</string>
+  <key>UILaunchScreen</key>
+  <dict/>
+  <key>UIAppFonts</key>
+  <array/>
+  <key>NSMicrophoneUsageDescription</key>
+  <string>Needed to record your voice for speech input.</string>
+  <key>NSSpeechRecognitionUsageDescription</key>
+  <string>Needed to transcribe your voice to text.</string>
+  <key>NSCameraUsageDescription</key>
+  <string>Not used.</string>
+  <key>NSPhotoLibraryAddUsageDescription</key>
+  <string>Not used.</string>
+  <key>LSApplicationCategoryType</key>
+  <string>public.app-category.education</string>
+  <key>UIRequiresFullScreen</key>
+  <true/>
+  <key>UIApplicationSceneManifest</key>
+  <dict>
+    <key>UIApplicationSupportsMultipleScenes</key>
+    <false/>
+  </dict>
+</dict>
+</plist>
+

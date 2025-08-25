@@ -1,0 +1,51 @@
+[
+  {
+    "source": "mahabharata",
+    "verse_ref": "Bhagavad Gita 2.47",
+    "language": "en",
+    "text": "You have a right to perform your prescribed duty, but you are not entitled to the fruits of action.",
+    "explanation": "Focus on effort, not outcomes. Do your best, let go of results.",
+    "tags": ["anxiety", "stress", "general"]
+  },
+  {
+    "source": "ramayanam",
+    "verse_ref": "Valmiki Ramayana, Ayodhya Kanda",
+    "language": "en",
+    "text": "Rama's calmness in adversity inspires resilience and duty.",
+    "explanation": "Hold steady and do what is right even when life is hard.",
+    "tags": ["sad", "courage"]
+  },
+  {
+    "source": "hanuman_chalisa",
+    "verse_ref": "Hanuman Chalisa Doha",
+    "language": "en",
+    "text": "With Hanuman's grace, all troubles vanish and all pains disappear.",
+    "explanation": "Faith and courage help us overcome fear and doubt.",
+    "tags": ["fear", "anxiety", "courage"]
+  },
+  {
+    "source": "sai_baba",
+    "verse_ref": "Sai Satcharitra",
+    "language": "en",
+    "text": "Why fear when I am here?",
+    "explanation": "Trust the divine and act with kindness and patience.",
+    "tags": ["fear", "comfort"]
+  },
+  {
+    "source": "quran",
+    "verse_ref": "Quran 94:5-6",
+    "language": "en",
+    "text": "Indeed, with hardship comes ease.",
+    "explanation": "Difficult times are followed by relief; keep hope alive.",
+    "tags": ["sad", "hope"]
+  },
+  {
+    "source": "bible",
+    "verse_ref": "Philippians 4:6-7",
+    "language": "en",
+    "text": "Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God.",
+    "explanation": "Prayer and gratitude calm the heart and mind.",
+    "tags": ["anxiety", "peace"]
+  }
+]
+

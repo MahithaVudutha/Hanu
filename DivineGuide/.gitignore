@@ -1,0 +1,21 @@
+# Xcode
+DerivedData/
+*.xcworkspace
+*.xccheckout
+*.xcuserstate
+*.xcscmblueprint
+*.xcuserdatad
+
+# CocoaPods (not used)
+Pods/
+
+# SwiftPM
+.build/
+
+# Secrets
+DivineGuide/GoogleService-Info.plist
+Config/Secrets.plist
+
+# User data
+*.DS_Store
+
